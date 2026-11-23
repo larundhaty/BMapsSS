@@ -1,0 +1,1 @@
+var json_Pusat_4 = {"type":"FeatureCollection","name":"Pusat_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Kode":0.0,"Nama":"Kantor Pusat BCA Syariah","Induk":"-","Jenis":"Kantor Pusat","Latitude":-6.22146,"Longitude":106.86788},"geometry":{"type":"Point","coordinates":[106.867875,-6.221457]}}]}
